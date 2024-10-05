@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TodoReactAppCICDDemo_CICD/static/js/main.b003c019.js",
+    "index.html": "/TodoReactAppCICDDemo_CICD/index.html",
+    "main.b003c019.js.map": "/TodoReactAppCICDDemo_CICD/static/js/main.b003c019.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b003c019.js"
+  ]
+}
